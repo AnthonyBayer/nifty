@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,400i,700,700i');
+body, h1, h2, h3, h4, h5, h6, p, ul, ol, li {
+	font-family: 'Montserrat';
+}
+
+.container {
+width:100%;
+max-width:900px;
+}
+
+hr {margin-bottom:15px;}
